@@ -1,6 +1,6 @@
 # Prototype / Perfboard PCB Business Card
 
-![PCB Business Card Preview](preview.png)
+![PCB Business Card Banner](https://cyril.lugan.fr/assets/stash/2020-08-business-cards.jpg)
 
 ## Features
 
@@ -12,6 +12,8 @@
 - Silkscreen area for marker notes
 - Blank area to add business contact, can be clipped off
 
+![PCB Business Card Preview](preview.png)
+
 ## Notes
 
 - 54 x 86 mm PCB area
@@ -22,6 +24,6 @@
 
 ## Credits
 
-PCB design by Cyril Lugan, licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+PCB design by [Cyril Lugan](https://cyril.lugan.fr), licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 Previews generated on [OSH Park](https://oshpark.com/).
